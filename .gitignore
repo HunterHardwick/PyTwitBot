@@ -1,0 +1,4 @@
+credentials.py
+help.txt
+*.idea
+__pycache__/
